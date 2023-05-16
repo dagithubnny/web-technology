@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/auca/semestre7/web%20tech/final%20project/webtech/23999-ishimwedanny-WebTechProject/src/java/Controller/Login.java</file>
+            <file>file:/E:/auca/semestre7/web%20tech/final%20project/webtech/23999-ishimwedanny-WebTechProject/src/java/Controller/VerifyRecaptcha.java</file>
+            <file>file:/E:/auca/semestre7/web%20tech/final%20project/webtech/23999-ishimwedanny-WebTechProject/src/java/Controller/FinTechController.java</file>
+            <file>file:/E:/auca/semestre7/web%20tech/final%20project/webtech/23999-ishimwedanny-WebTechProject/src/java/Dao/FintechDao.java</file>
+            <file>file:/E:/auca/semestre7/web%20tech/final%20project/webtech/23999-ishimwedanny-WebTechProject/web/signup.xhtml</file>
+            <file>file:/E:/auca/semestre7/web%20tech/final%20project/webtech/23999-ishimwedanny-WebTechProject/src/java/Entity/Allfintech.java</file>
+            <file>file:/E:/auca/semestre7/web%20tech/final%20project/webtech/23999-ishimwedanny-WebTechProject/src/java/hibernate.cfg.xml</file>
+            <file>file:/E:/auca/semestre7/web%20tech/final%20project/webtech/23999-ishimwedanny-WebTechProject/src/java/Controller/StudentController.java</file>
+            <file>file:/E:/auca/semestre7/web%20tech/final%20project/webtech/23999-ishimwedanny-WebTechProject/web/Login.xhtml</file>
+            <file>file:/E:/auca/semestre7/web%20tech/final%20project/webtech/23999-ishimwedanny-WebTechProject/web/account.xhtml</file>
+            <file>file:/E:/auca/semestre7/web%20tech/final%20project/webtech/23999-ishimwedanny-WebTechProject/src/java/Controller/MachineLearningController.java</file>
+            <file>file:/E:/auca/semestre7/web%20tech/final%20project/webtech/23999-ishimwedanny-WebTechProject/web/browse/finList.xhtml</file>
+            <file>file:/E:/auca/semestre7/web%20tech/final%20project/webtech/23999-ishimwedanny-WebTechProject/src/java/Entity/Allstudents.java</file>
+            <file>file:/E:/auca/semestre7/web%20tech/final%20project/webtech/23999-ishimwedanny-WebTechProject/web/browse/gameList.xhtml</file>
+            <file>file:/E:/auca/semestre7/web%20tech/final%20project/webtech/23999-ishimwedanny-WebTechProject/web/META-INF/context.xml</file>
+            <file>file:/E:/auca/semestre7/web%20tech/final%20project/webtech/23999-ishimwedanny-WebTechProject/web/submitInternships/submitIntenship3.xhtml</file>
+            <file>file:/E:/auca/semestre7/web%20tech/final%20project/webtech/23999-ishimwedanny-WebTechProject/web/WEB-INF/faces-config.xml</file>
+            <file>file:/E:/auca/semestre7/web%20tech/final%20project/webtech/23999-ishimwedanny-WebTechProject/src/java/Entity/Allgames.java</file>
+            <file>file:/E:/auca/semestre7/web%20tech/final%20project/webtech/23999-ishimwedanny-WebTechProject/web/cate/mlearnList.xhtml</file>
+            <file>file:/E:/auca/semestre7/web%20tech/final%20project/webtech/23999-ishimwedanny-WebTechProject/web/ADMINLogin.xhtml</file>
+            <file>file:/E:/auca/semestre7/web%20tech/final%20project/webtech/23999-ishimwedanny-WebTechProject/web/Learn.xhtml</file>
+            <file>file:/E:/auca/semestre7/web%20tech/final%20project/webtech/23999-ishimwedanny-WebTechProject/src/java/Dao/StudentDao.java</file>
+            <file>file:/E:/auca/semestre7/web%20tech/final%20project/webtech/23999-ishimwedanny-WebTechProject/web/browse/startList.xhtml</file>
+            <file>file:/E:/auca/semestre7/web%20tech/final%20project/webtech/23999-ishimwedanny-WebTechProject/src/java/Controller/UserBean.java</file>
+            <file>file:/E:/auca/semestre7/web%20tech/final%20project/webtech/23999-ishimwedanny-WebTechProject/web/WEB-INF/web.xml</file>
+            <file>file:/E:/auca/semestre7/web%20tech/final%20project/webtech/23999-ishimwedanny-WebTechProject/web/index.xhtml</file>
+            <file>file:/E:/auca/semestre7/web%20tech/final%20project/webtech/23999-ishimwedanny-WebTechProject/web/AdminAccount.xhtml</file>
+            <file>file:/E:/auca/semestre7/web%20tech/final%20project/webtech/23999-ishimwedanny-WebTechProject/web/browse/mlearnList.xhtml</file>
+            <file>file:/E:/auca/semestre7/web%20tech/final%20project/webtech/23999-ishimwedanny-WebTechProject/web/Browse.xhtml</file>
+        </group>
+    </open-files>
+</project-private>

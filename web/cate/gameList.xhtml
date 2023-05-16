@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:f="http://xmlns.jcp.org/jsf/core">
+    <h:head>
+        <title>Games list</title>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous"/>
+
+    </h:head>
+    <h:body>
+        
+         <!--  MY NAVIGATION BAR  -->
+            
+		<nav class="navbar navbar-expand-md navbar-light bg-light ml-auto-lg" >
+		  <div class="container-fluid">
+		    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+		      <span class="navbar-toggler-icon"></span>
+		    </button>
+		    
+                    
+                    
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+		      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+		        <li class="nav-item">
+		          <a class="nav-link active" aria-current="page" href="../index.xhtml">Signout</a>
+		       
+                        </li>
+		        <li class="nav-item">
+		          <a class="nav-link" href="../Login.xhtml">Login</a>
+		        </li>
+	       		        
+		       
+		      </ul>
+		    </div>
+		  </div>
+                                        
+		</nav>
+                
+          
+        <!-- END OF NAVBAR -->   
+        
+       <div class="container w-40 mt-5">
+
+        
+        <h:form>
+            <h:dataTable class="table table-bordered table-hovered" value="#{gam.gameRecords}" var="i" border="1">
+                
+                <h:column>
+                    <f:facet name="header">Company Id</f:facet>
+                    #{i.companyid}
+                </h:column>
+                
+                <h:column>
+                    <f:facet name="header">Company Name</f:facet>
+                    #{i.companyName}
+                </h:column>
+                
+                <h:column>
+                    <f:facet name="header">Company Address</f:facet>
+                    #{i.companyAddress}
+                </h:column>
+                
+                <h:column>
+                    <f:facet name="header">Experience required</f:facet>
+                    #{i.companyJobExp}
+                </h:column>
+                
+                <h:column>
+                    <f:facet name="header">Company Flexibility</f:facet>
+                    #{i.companyAvailability}
+                </h:column>
+                
+                <h:column>
+                    <f:facet name="header">Action</f:facet>
+                    <h:commandButton value="Delete" action="#{gam.delete(i)}"/>
+                </h:column>
+                
+                
+                
+            </h:dataTable>
+                       
+        </h:form>
+        
+        
+       </div>
+        
+        
+        
+        
+    </h:body>
+</html>
+
